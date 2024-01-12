@@ -1,0 +1,10 @@
+README.md
+setup.py
+2048_3x3.egg-info/PKG-INFO
+2048_3x3.egg-info/SOURCES.txt
+2048_3x3.egg-info/dependency_links.txt
+2048_3x3.egg-info/requires.txt
+2048_3x3.egg-info/top_level.txt
+dqn2048/__init__.py
+dqn2048/envs/__init__.py
+dqn2048/envs/env2048.py
